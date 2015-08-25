@@ -37,3 +37,20 @@ Please fill out the below application: </br>
 		</p>
 	</div>
 </div>	
+<div class="post">
+	<h1 class="title"><a>New Year Student Signups</a></h1>
+		</p>
+	</div>
+</div>
+<div class="post">
+	<h1 class="title"><a>Want to join for our team?</a></h1>
+	<p class="byline"><small>Posted on August 24th, 2015</small></p>
+	<div class="entry">
+		<p>
+Please fill out the below papers and bring them with you to the next open shop night: </br>
+			<ul></br><a style=\"target-new: tab\" target=\"new\" href="toolcert.docx">FRC Tool Certification (docx)</a></ul></br>
+			<ul></br><a style=\"target-new: tab\" target=\"new\" href="Team Handbook Updated 11-14">Team Handbook (doc)</a></ul></br>
+			<ul></br><a style=\"target-new: tab\" target=\"new\" href="Field Trip Permission Slip rev 0815">Field Trip Permission Slip (doc)</a></ul></br>
+		</p>
+	</div>
+</div>	
